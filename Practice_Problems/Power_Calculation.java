@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// power calculation
 public class Power_Calculation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -12,3 +12,4 @@ public class Power_Calculation {
     
     
 }
+
