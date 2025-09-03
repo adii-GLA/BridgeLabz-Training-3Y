@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Calculate_Average_of_Three_Numbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+		// take 3 input 
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int c = sc.nextInt();
@@ -11,3 +12,4 @@ public class Calculate_Average_of_Three_Numbers {
 
     } 
 }
+
