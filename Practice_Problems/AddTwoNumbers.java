@@ -1,7 +1,6 @@
-
 // package JavaBasics;
 import java.util.Scanner;
-
+// add 2 num
 public class AddTwoNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
